@@ -341,8 +341,9 @@ header.shrink {
   color: var(--txt-screen);
   position: absolute;
   left: 20%;
-  bottom: 75%;
+  bottom: 100%;
   z-index: -1;
+  font-family: OswaldSemiBold;
 }
 
 .main-title {
